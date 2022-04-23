@@ -1,5 +1,7 @@
 # LGhubReverseEng
 
+*Even if this README is in English, I'm french and I basically do my whole research in French and as I'm lazy, sometimes I'll use english term. And don't care about it being not understandable for anyone, these research are made for me, by me and that's all.*
+
 ## Problem
 I'm a big user of [Shadow Cloud](https://shadow.tech/fr/) computer and one of the negative part of these cloud computer is you can't use profile with the physical keyboard/mouse. 
 
